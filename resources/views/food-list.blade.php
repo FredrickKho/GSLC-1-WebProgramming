@@ -1,5 +1,4 @@
 @extends('template')
-
 @section('content')
     <table class="table table-striped">
         <thead>
@@ -55,3 +54,4 @@
         </tbody>
     </table>
 @endsection
+
